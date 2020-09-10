@@ -1,0 +1,4 @@
+C:\LN\vietthanhsochu\obj\Debug\netcoreapp3.1\vietthanhsochu.csprojAssemblyReference.cache
+C:\LN\vietthanhsochu\obj\Debug\netcoreapp3.1\vietthanhsochu.AssemblyInfoInputs.cache
+C:\LN\vietthanhsochu\obj\Debug\netcoreapp3.1\vietthanhsochu.AssemblyInfo.cs
+C:\LN\vietthanhsochu\obj\Debug\netcoreapp3.1\vietthanhsochu.csproj.CoreCompileInputs.cache
